@@ -3,6 +3,8 @@ import Header from './components/Header/Header';
 import PropertyList from './components/PropertyList/PropertyList';
 import Title from './components/Title/Title';
 
+import properties from './data/properties';
+
 import './App.css';
 
 const App = () => {
@@ -11,7 +13,7 @@ const App = () => {
             <Header />
             <main>
                 <Title />
-                <PropertyList />
+                <PropertyList properties={properties} />
             </main>
             <Footer />
         </div>
