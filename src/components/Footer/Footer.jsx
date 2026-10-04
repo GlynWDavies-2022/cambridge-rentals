@@ -1,7 +1,7 @@
-import './PropertyList.css';
+import './Footer.css';
 
-const PropertyList = () => {
+const Footer = () => {
     return <></>;
 };
 
-export default PropertyList;
+export default Footer;
