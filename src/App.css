@@ -1,0 +1,9 @@
+.app {
+    margin-top: 6rem;
+}
+
+@media (max-width: 800px) {
+    .app {
+        margin-top: 10rem;
+    }
+}
