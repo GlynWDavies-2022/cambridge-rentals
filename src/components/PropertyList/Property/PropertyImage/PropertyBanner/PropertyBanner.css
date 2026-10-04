@@ -1,0 +1,12 @@
+.banner {
+    background-color: #fc7a57;
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.2);
+    color: #fff;
+    font-size: 0.875rem;
+    font-weight: bold;
+    left: -1.5625rem;
+    padding: 0.3125rem 1.25rem;
+    position: absolute;
+    top: 1rem;
+    transform: rotate(-45deg);
+}
